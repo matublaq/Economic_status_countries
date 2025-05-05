@@ -1,2 +1,4 @@
 # Financial_status_countries
-Estado financiero en vivo de distintos países.
+Estado financiero y económico actualizado de distintos países.
+
+Visualización de los datos de manera clara y sencilla de comprender. 
