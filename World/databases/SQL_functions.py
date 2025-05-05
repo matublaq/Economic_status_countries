@@ -66,7 +66,7 @@ def delete_inflation_data():
 
 #####################################################
 def backup_inflation_database(file_path):
-    shutil.copyfile(file_path, file_path[3:-3] + '_backup.db')
+    shutil.copyfile(file_path, file_path[0:-3] + '_backup.db')
 
 ######################################################
 def update_inflation_database(csv_file_path):
